@@ -1,0 +1,10 @@
+{
+
+	"host": "A13J4GC93HQK94.iot.us-west-2.amazonaws.com",
+	"port": 8883,
+	"clientId": "RPI",
+	"thingName": "RPI",
+	"caCert": "root-CA.crt",
+	"clientCert": "a949eeedda-certificate.pem.crt",
+	"privateKey": "a949eeedda-private.pem.key"
+}
